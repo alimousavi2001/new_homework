@@ -1,0 +1,4 @@
+login_page=""
+username="YOUR USERNAME"
+password="YOUR PASSWORD"
+courses={"ketabkhone":"./LINK OF COURSE(EG:./view.php?id=97)"}
