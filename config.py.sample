@@ -1,4 +1,8 @@
-login_page=""
+"""
+change the filename to config.py
+"""
+
+ogin_page=""
 username="YOUR USERNAME"
 password="YOUR PASSWORD"
-courses={"ketabkhone":"./LINK OF COURSE(EG:./view.php?id=97)"}
+courses={"Cours_names":"./LINK OF COURSE(EG:./view.php?id=97)"}
