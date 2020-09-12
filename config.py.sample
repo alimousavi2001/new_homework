@@ -2,7 +2,7 @@
 change the filename to config.py
 """
 
-ogin_page=""
+login_page=""
 username="YOUR USERNAME"
 password="YOUR PASSWORD"
-courses={"Cours_names":"./LINK OF COURSE(EG:./view.php?id=97)"}
+courses={"Cours_names":"LINK OF COURSE(EG:view.php?id=97)"}
