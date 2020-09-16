@@ -19,7 +19,7 @@ def is_checked(item):
 def find_status(course):
     go(config.courses[course])
     completionstate={}
-    for i in range(1,len(showforms())):
+    for i in range(2,len(showforms())):
         #print(is_checked(i))
         completionstate[is_checked(i)[0]]=is_checked(i)[1]
     return(completionstate)
